@@ -16,3 +16,9 @@ We were provided with data of movies released from 2006 to 2016. The data alongw
 
 ![MovieDataSet](https://user-images.githubusercontent.com/83507295/124692825-ec723f80-defb-11eb-90c3-8ab452608e4f.PNG)
 
+## Initial Analysis
+On analysing the given dataset, we see that columns 'Rank' and 'Description' don't add much values to our EDA. Hence we are dropping those 2 columns. The resulting dataset is as below - 
+
+![MovieDataSet1](https://user-images.githubusercontent.com/83507295/125182391-4c822200-e22b-11eb-8611-ddfa84ca885b.PNG)
+
+Likewise we continue our analysis on different variables and then make a few actionable insights to the stakeholders.
